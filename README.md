@@ -34,6 +34,8 @@ DDQN:
 
 `Replay_Buffer.py`: The replay buffer of the DDQN;
 
+The folder `data_structures` and `exploration_strategies` denote the data structure and exploration strategies (e.g., noise net), respectively;
+
 Deep-unfolding:
 
 `WMMSE.py`: Iterative WMMSE algorithm for digital precoding; 
