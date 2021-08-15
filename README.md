@@ -26,11 +26,11 @@ DDQN:
 
 `Base_Agent.py`: Define the class of agent that contains the basic functions of the DQN;
 
-`DQN.py`: Define the class of DQN and it inherits from the Base_Agent;
+`DQN.py`: Define the class of DQN and it inherits from the `Base_Agent`;
 
-`DDQN.py`: The class that inherits from the DQN and add the function of DDQN;
+`DDQN.py`: The class that inherits from the `DQN` and add the function of DDQN;
 
-`my_DQN.py`: The class that inherits from the DQN and add some functions to deal with our problem, e.g., the computation of the reward function; 
+`my_DQN.py`: The class that inherits from the `DQN` and add some functions to deal with our problem, e.g., the computation of the reward function; 
 
 `Replay_Buffer.py`: The replay buffer of the DDQN;
 
